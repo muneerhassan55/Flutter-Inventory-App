@@ -1,0 +1,9 @@
+Version 0.9.41
+
+# Book Keeping App
+
+Fixes:
+* Fix item cache refresh after saving settings.
+* Fix the unhelpful empty message in transaction profit viewer.
+* Removed the dead verify account button and *Unverifed text in side bar
+* Moved the app settings at top
